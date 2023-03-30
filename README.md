@@ -16,4 +16,10 @@ sales/revenue , improve customer retention and decrease churn.
 - Now, investigating in products to determine the highest product sold per month. this will help understand product popularity and trends, enabling informed decisions  about product positioning, pricing and promotions.
 
 - these data from 12/1/2010 to 12/9/2011 (about one year)
-   Determine the highest revenue month over the year. This analysis will provide insight into seasonal trends and help plan  sales and marketing strategies accordingly.  
+   Determine the highest revenue month over the year. This analysis will provide insight into seasonal trends and help plan  sales and marketing strategies accordingly. 
+   
+   
+ After that, making RFM model and segment each customer based on the below 
+groups 
+Champions - Loyal Customers - Potential Loyalists – Recent Customers – Promising -
+Customers Needing Attention - At Risk - Cant Lose Them – Hibernating – Lost
